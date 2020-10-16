@@ -17,6 +17,7 @@ Attacked pieces goes under attacking tower/graught.
 
 ## Rules for Russian draughts
 
+0. Rules applied for simple draughts.
 1. Simple pieces can attacked both forward and backward.
 2. During attack combination a piece can turn into king and
     continue attacking as a king.
@@ -25,3 +26,7 @@ Attacked pieces goes under attacking tower/graught.
 
 ## Rules for Russian towers
 
+0. Rules applied to Russian draughts.
+1. Attacked piece goes under attacking column.
+2. If a column is being attacked top piece goes to attacking tower.
+3. Top piece defines which player controls a tower.
